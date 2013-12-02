@@ -35,5 +35,5 @@ for (my $i=0; $i <= $lines; $i++)
 {
    $random = int(rand($ra));
    $out=`sed -n -e ${random}p $filepath`;
-   print "$out";
+   print "$out\n";
 }
