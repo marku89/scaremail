@@ -1,3 +1,15 @@
+### Install ### debian !!!
+
+* Install python2.6
+* NLTK tokens  wget https://www.archlinux.org/packages/community/any/nltk-data/download/
+* NLTK python  wget https://pypi.python.org/packages/source/n/nltk/nltk-2.0.4.tar.gz
+* Pattern.en   git clone https://github.com/clips/pattern.git
+* Clone this   git clone https://github.com/markus89/scaremail.git
+
+
+
+################## orgrinal from bengrosser ##########
+
 ## ScareMail
 
 [ScareMail](http://bengrosser.com/projects/scaremail/) is a web browser extension that makes email “scary” in order to disrupt NSA surveillance. Extending Google’s Gmail, the work adds to every new email’s signature an algorithmically generated narrative containing a collection of probable NSA search terms. This “story” acts as a trap for NSA programs like PRISM and XKeyscore, forcing them to look at nonsense. Each email’s story is unique in an attempt to avoid automated filtering by NSA search systems.
