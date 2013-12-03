@@ -8,7 +8,7 @@
 
 
 
-################## orgrinal from bengrosser ##########
+# Original text from bengrosser
 
 ## ScareMail
 
